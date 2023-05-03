@@ -1,0 +1,47 @@
+.CABEÇALHO{
+    background-color: #001333;
+    color: white ;
+display: flex;
+justify-content: space-around;
+}
+.Imagem_alura{
+width: 10%;
+}
+.Imagem_cepast{
+    width: 25%;
+    position: absolute; 
+    left: 10px; /* posiciona a 90px para a esquerda */ 
+    top: 280px; /* posiciona a 70px para baixo */
+}
+.item{
+
+}
+.Site_alura{
+    background-color: #001330;
+}
+.lado_cepast{
+    color: white;
+    width: 300;
+ position: absolute;
+ left: 470px;
+ top: 270px;
+}
+
+.link{
+    color: white ;
+    display: flex;
+    justify-content: space-around;
+    top: 50px;
+}
+    .Alura{
+        text-decoration: none;
+        color: #ffffff; /* Altere a cor do texto do link conforme necessário */
+      }
+      .Escola{
+        text-decoration: none;
+        color: #ffffff; /* Altere a cor do texto do link conforme necessário */
+      }
+      .Estudante{
+        text-decoration: none;
+        color: #ffffff; /* Altere a cor do texto do link conforme necessário */
+      }
